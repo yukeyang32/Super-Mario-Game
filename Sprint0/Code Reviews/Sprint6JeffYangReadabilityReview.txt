@@ -1,0 +1,11 @@
+﻿Jeffrey Yang
+4/21/2019
+Sprint 6
+Main Menu (Menu.cs)
+Wenren
+15 minutes
+
+The menu file seems pretty readable. A lot of the magic numbers are put into the constants class so the used numbers are more self-explanatory than a random number.
+The level names are easily understandable in the beginning of the file with level 1, 2, pk mode, and exit.
+I think when adding a lot more levels to the selector this may require a lot more listed items, which could impact readability if there are large walls of text due to all the levels.
+At the moment though I think this is a good format for the class. A lot of Menu.cs is self explanatory and easy to understand.

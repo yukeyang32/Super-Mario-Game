@@ -1,0 +1,11 @@
+Team2 Mario Reflection:
+
+Our team’s time and project management could have some improvement over a few areas. We felt like we were pretty rushed on both the initial implementation 
+as well as the final refactored implementation for Sprint 2. Part of this may have been due to lack of communication on code design, having to learn git 
+alongside contributing code, as well as being able to properly use the sprint boards as part of Azure Devops.
+
+
+In the end we felt like we did a good job working together when we met in person and were able to complete tasks quickly when we were able to explain to 
+each other what our thought processes were while we were coding rather than telling each other how the code worked the next day. This experience will 
+contribute to how we plan for our future sprints with more in person meetings to hash out design and implementation details in order to save much more 
+time in the future as well as have a more coherent code layout.

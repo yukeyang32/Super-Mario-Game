@@ -1,0 +1,20 @@
+﻿1. Author of the code review: Wenren Zhou
+2. Date: 2019.4.21
+3. Sprint Number: 6
+4. Name of the .cs file being reviewed: ConstantNumber.cs; Game1.cs
+5. Author of .cs file being reviewed: Wenbo Nan, Keyang Yu, Wenren Zhou
+6. Number of minutes taken to complete the review: 20min
+7. Specific comments: 
+	
+   There are a bunch of condition checking statements in the Update() and Draw() methods in Game1.cs, which increase
+   the difficulty to read and understand the code and reasons behind. The logic of the order of lines within some methods
+   are not very clear, either.
+
+   Some of the constant values in the ConstantNubmer.cs can be integrated together 
+   to reduce the total amount of constant values and make the class more clear; the grouping can also be better 
+   to improve the understandability.
+
+   There is inconsistency of adjustment values for either positions or dimensions in the Mario state classes, 
+   even when Mario is in the the sprite status; could recheck all the values to improve consistency.
+
+					  

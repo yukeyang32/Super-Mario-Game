@@ -1,0 +1,12 @@
+﻿Jeffrey Yang
+4/08/2019
+Sprint 6
+Menu.cs
+Wenren
+
+
+Menu.cs seems to be implemented well for the current status of the class. With not that many levels to pick from, there isnt a real necessity to combine all of the 
+locations of menu options as well as their names/other stuff in a data structure. However, if the number of selectable levels did go up by a lot, then we may need to 
+put all of the levels into a data structure and also all of the names/locations into an associated structure so that we could access them both. This would only really be necessary
+for expansion of selectable levels. By doing this we could reduce a lot of runtime logic if we didn't have to always check for the specific number location (menu location 1,2,3,4, etc).
+Instead just giving something different depending onselection instead of having every single option have a different whole menu write as it is now.

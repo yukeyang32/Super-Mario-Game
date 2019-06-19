@@ -1,0 +1,9 @@
+﻿Team2 Mario Reflection:
+
+Again, Sprint 6 went by pretty smoothly for us as we also had a pretty good separation of tasks. THis allowed us to all work on 
+our different projects (Wenren on menu, Jeffrey on level, Wenbo/Keyang on 2P/PK mode) without impeding each other much,
+so that helped a lot for working during the project week. 
+
+Most of the code seems to get written without large bugs, and bugs are relatively easier to fix with working early rather than last minute implementation
+and debug of different new features for the sprints. It seems like all of the items on the burndown chart were able to be completed in a reasonable time without many
+bugs with the functionality of the game itself.

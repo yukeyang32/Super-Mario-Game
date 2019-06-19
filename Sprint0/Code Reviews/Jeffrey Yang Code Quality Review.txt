@@ -1,0 +1,11 @@
+Jeffrey Yang
+2/11/2019
+Sprint 2
+MarioSpriteFactory.cs
+Wenbo Nan with contributions by other group members
+It seems there's a lot of states that have to be able to be created by the factory and this seems a little cluttered.
+I'm not sure how else it would be formatted but if possible it would be a lot better to write this while only having to show a few methods, since there are a lot right now (maybe split into partial files for each size of mario?)
+Other than that I think the implementation is fine as a standard factory to give different sprites for each state of mario. There currently are some issues with inconsistency with sprite size/source rectangles that could be fixed for consistency across sprites/spritesheets.
+
+One change could be adding a whole new subset of states for mario, like the mini state that exists in the new games (smaller than small mario). This would result in having to add new methods into the sprite factory for each sprite for each state of that new subset.
+This and other additions to new states could result in the MarioSpriteFactory.cs class becoming very bloated with a lot of methods, so maybe some chunking into other classes would be needed (this class might not scale well).

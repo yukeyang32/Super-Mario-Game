@@ -1,0 +1,19 @@
+﻿Game Control Manual:
+Menu: Key Up/Down: Choose Level
+	  Key Enter: Select Level
+Game: Key Q:Exit Game
+	  Key R:Restart Game
+	  Key P:Pause Game
+	  Key O:Resume Game(When game is paused)
+Mario: Key Up: Jump or ToIdle
+	   Key Down: Crouch
+	   Key Left: Go left
+	   Key Right: Go Right
+	   Key L: Shoot Fireball
+	   Key M: Running
+Luigi(Only Pk Mode): Key W: Jump or ToIdle
+					 Key S: Crouch
+					 Key A: Go left
+					 Key D: Go Right
+					 Key C: Shoot Fireball
+					 Key X: Running

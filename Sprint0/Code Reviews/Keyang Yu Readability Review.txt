@@ -1,0 +1,8 @@
+﻿1. Author of code review: Keyang Yu
+2. Date: 2019.4.21
+3. Sprint Number: 6
+4. Name of .cs file being reviewed: Menu.cs
+5. Author of .cs file being reviewed: Wenren Zhou
+6. Number of minutes taken to complete the review: 21min
+7. Menus.cs: Too many if else check in draw method, which conflicts the cohesion standard of method.
+8. Split these if else check to several small methods and call these methods in draw method.

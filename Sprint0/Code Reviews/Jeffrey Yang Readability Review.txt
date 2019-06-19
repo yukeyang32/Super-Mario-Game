@@ -1,0 +1,8 @@
+Jeffrey Yang
+2/6/2019
+Sprint 2
+MarioSpriteFactory.cs
+Wenbo Nan with contributions by other group members
+10 minutes review
+I think the inconsistencies with how the states are named (sometimes size/direction/state/mario, or mario/direction/stae, etc) can be confusing and lead to potential errors if methods aren't consistently named.
+Since there are so many methods, it can be hard from a readability standpoint to know every single method name, so they should be named consistently so that anyone reading/using the code will know all the functionality is related.

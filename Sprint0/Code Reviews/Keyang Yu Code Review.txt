@@ -1,0 +1,8 @@
+﻿1. Author of code review: Keyang Yu
+2. Date: 2019.4.21
+3. Sprint Number: 6
+4. Name of .cs file being reviewed: MarioLuigiCollisionHandler.cs
+5. Author of .cs file being reviewed: Wenbo Nan
+6. Number of minutes taken to complete the review: 20min
+7. MarioLuigiCollisionHandler.cs: A class deal with both collision of mario and luigi, which lead to low cohesion.
+8. Split this class into two separate classes. One deals with mario collision in pkmode and the other one deals with luigi collision in pkmode.

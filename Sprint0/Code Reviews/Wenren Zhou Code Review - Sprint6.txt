@@ -1,0 +1,19 @@
+﻿1. Author of the code review: Wenren Zhou
+2. Date: 2019.4.21
+3. Sprint Number: 6
+4. Name of the .cs file being reviewed: Game1.cs; LevelLoader.cs; and MarioState classes
+5. Author of .cs file being reviewed: Jeff Yang, Wenbo Nan
+6. Number of minutes taken to complete the review: 20min
+
+7. Specific comments: 
+
+   The loops and switch cases in LevelLoader can lead to higher complexity, which is not the best practice; 
+   separating out the checking and responding statements might be helpful.
+
+   Game1.cs has multiple methods and if statements to check whether the display is in Menu mode or Playing mode, which decreases the cohesion. 
+   Could consider writing state classes for the display and having all the work done there.
+
+   There are many Mario state classes; could reduce the number of classes by using singleton pattern for Star Mario.
+   
+
+

@@ -1,0 +1,8 @@
+Author of the code review: Wenbo Nan
+Date: 4/21/2019
+Sprint #6
+Name of the .cs file being reviewed: Menu.cs
+Author of the .cs file being reviewed: Wenren Zhou
+Specific comments on code quality: This class is of high code quality, the fields are clear and correct on the scope (public vs private).
+The class and methods are cohesive, and coupling is not too tight. If the function is to be changed in the future, I think the class may still 
+be easy to maintain, just change the loading and several constant numbers. 
