@@ -13,7 +13,3 @@ Press c key to turn Hidden block into used block
 On level 2 (the hard level):
 Some jumps may seem impossible. Make sure to check for hidden blocks that you can activate/jump onto.
 If you can't find the hidden blocks the easiest way to find them is to copy the csv to your computer and open the file in excel to see the format.
-
-On code analysis warnings:
-A lot of the code analysis warnings are about class members that do not get used. Many of these are because the classes are not fully implemented for all functionality, and we figured that those members may be used later in the project. This is why some of them may appear to be unused but we may use them to change features of the game in the future.
-For example while the 'Goomba' in IdleGoombaState.cs is not used, it will be used later when changing states for the Goomba itself (stomped, direction change, etc)
