@@ -1,2 +1,2 @@
 # C#-Mario
-Mario Game Sprite
+Super Mario Bros Game
